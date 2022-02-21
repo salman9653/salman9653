@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Salman
-- 👀 Interested in ... JS
-- 🌱 Currently working in ... React.js
+- 👀 Interested in ... JavaScript
+- 🌱 Currently working on ... React.js projects
 - 📫 Mail me ... salman9915189734@mail.com
 
 <!---
