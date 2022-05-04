@@ -4,23 +4,16 @@ Hi 👋 I'm  Salman
 Frontend Web Developer
 ----------------------
 
-- ❤️ Interested in - JavaScript
-- 🧑‍💻 Currently working on - MERN stack projects
-- 📖 Learning - Next.js
-- 📩 Mail me at - salman9915189734@mail.com
-
-Hi 👋 My name is Salman
-=======================
-
-Frontend Web Developer
-----------------------
+-   🌍  I'm based in Gurugram
+-   🖥️  See my portfolio at [My Portfolio](http://salman9653.github.io/WebZ-Art/)
+-   ✉️  You can contact me at [salman9915189734@gmail.com](mailto:salman9915189734@gmail.com)
+-   ❤️ Interested in - JavaScript
+-   🧠  I'm learning Next.js
+-   🧑‍💻 Currently working on - MERN stack projects
 
 Seeking for a challenging position that would enable me to use my skills, knowledge and abilities to the fullest to further enhance my knowledge and resources, learn managerial skills and my all-around development to grow as a professional.
 
-*   🌍  I'm based in Gurugram
-*   🖥️  See my portfolio at [My Portfolio](http://salman9653.github.io/WebZ-Art/)
-*   ✉️  You can contact me at [salman9915189734@gmail.com](mailto:salman9915189734@gmail.com)
-*   🧠  I'm learning Next.js### Skills
+### Skills
 <p align="left">
                                 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
                                 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="Typescript" /></a>
