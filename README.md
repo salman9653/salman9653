@@ -1,8 +1,10 @@
 Hi 👋 I'm  Salman
 =======================
 
+
 Frontend Web Developer
 ----------------------
+
 
 -   🌍  I'm based in Gurugram
 -   🖥️  See my portfolio at [My Portfolio](http://salman9653.github.io/WebZ-Art/)
@@ -11,7 +13,6 @@ Frontend Web Developer
 -   🧠  I'm learning Next.js
 -   🧑‍💻 Currently working on - MERN stack projects
 
-Seeking for a challenging position that would enable me to use my skills, knowledge and abilities to the fullest to further enhance my knowledge and resources, learn managerial skills and my all-around development to grow as a professional.
 
 ### Skills
 <p align="left">
