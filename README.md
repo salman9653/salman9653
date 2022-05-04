@@ -45,7 +45,9 @@ Frontend Web Developer
 
 <a href="http://www.github.com/salman9653"><img src="https://activity-graph.herokuapp.com/graph?username=salman9653&bg_color=22272e&color=ffffff&line=10b981&point=ffffff&area_color=22272e&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
-<a href="https://github.com/salman9653" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=salman9653&langs_count=10&title_color=10b981&text_color=ffffff&icon_color=ef4444&bg_color=22272e&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a><b>Top Repositories</b><div width="100%" align="center">
+<a href="https://github.com/salman9653" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=salman9653&langs_count=10&title_color=10b981&text_color=ffffff&icon_color=ef4444&bg_color=22272e&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+<b>Top Repositories</b><div width="100%" align="center">
   
 <a href="https://github.com/salman9653/travel-guide" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=salman9653&repo=travel-guide&title_color=10b981&text_color=ffffff&icon_color=ef4444&bg_color=22272e&hide_border=true&locale=en" /></a>
   
