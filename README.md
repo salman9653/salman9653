@@ -43,15 +43,15 @@ Frontend Web Developer
 
 <a href="http://www.github.com/salman9653"><img src="https://github-readme-streak-stats.herokuapp.com/?user=salman9653&stroke=ffffff&background=22272e&ring=10b981&fire=10b981&currStreakNum=ffffff&currStreakLabel=10b981&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="http://www.github.com/salman9653"><img src="https://activity-graph.herokuapp.com/graph?username=salman9653&bg_color=22272e&color=ffffff&line=ef4444&point=ffffff&area_color=22272e&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<a href="http://www.github.com/salman9653"><img src="https://activity-graph.herokuapp.com/graph?username=salman9653&bg_color=22272e&color=ffffff&line=10b981&point=ffffff&area_color=22272e&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 <a href="https://github.com/salman9653" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=salman9653&langs_count=10&title_color=10b981&text_color=ffffff&icon_color=ef4444&bg_color=22272e&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a><b>Top Repositories</b><div width="100%" align="center">
   
 <a href="https://github.com/salman9653/travel-guide" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=salman9653&repo=travel-guide&title_color=10b981&text_color=ffffff&icon_color=ef4444&bg_color=22272e&hide_border=true&locale=en" /></a>
   
-<a href="https://github.com/salman9653/cryptoz" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=salman9653&repo=cryptoz&title_color=10b981&text_color=ffffff&icon_color=ef4444&bg_color=22272e&hide_border=true&locale=en" /></a></div>
+<a href="https://github.com/salman9653/cryptoz" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=salman9653&repo=cryptoz&title_color=10b981&text_color=ffffff&icon_color=ffffff&bg_color=22272e&hide_border=true&locale=en" /></a></div>
 
 <br /><br /><br /><br /><br /><br />
 
 <div width="100%" align="center">
-<a href="https://github.com/salman9653/apex-one" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=salman9653&repo=apex-one&title_color=10b981&text_color=ffffff&icon_color=ef4444&bg_color=22272e&hide_border=true&locale=en" /></a><a href="https://github.com/salman9653/WebZ-Art" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=salman9653&repo=WebZ-Art&title_color=10b981&text_color=ffffff&icon_color=ef4444&bg_color=22272e&hide_border=true&locale=en" /></a></div>
+<a href="https://github.com/salman9653/apex-one" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=salman9653&repo=apex-one&title_color=10b981&text_color=ffffff&icon_color=ffffff&bg_color=22272e&hide_border=true&locale=en" /></a><a href="https://github.com/salman9653/WebZ-Art" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=salman9653&repo=WebZ-Art&title_color=10b981&text_color=ffffff&icon_color=ef4444&bg_color=22272e&hide_border=true&locale=en" /></a></div>
