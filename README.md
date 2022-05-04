@@ -1,14 +1,13 @@
-- 👋 Hi, I’m Salman
-- ❤️ Interested in - JavaScript
-- 🧑‍💻 Currently working on - MERN stack projects
-- 📖 Learning - Next.js
-- 📩 Mail me at - salman9915189734@mail.com
-
 Hi 👋 I'm  Salman
 =======================
 
 Frontend Web Developer
 ----------------------
+
+- ❤️ Interested in - JavaScript
+- 🧑‍💻 Currently working on - MERN stack projects
+- 📖 Learning - Next.js
+- 📩 Mail me at - salman9915189734@mail.com
 
 Seeking for a challenging position that would enable me to use my skills, knowledge and abilities to the fullest to further enhance my knowledge and resources, learn managerial skills and my all-around development to grow as a professional.
 
