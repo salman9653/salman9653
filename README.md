@@ -49,11 +49,13 @@ Frontend Web Developer
 
 <b>Top Repositories</b><div width="100%" align="center">
   
-<a href="https://github.com/salman9653/travel-guide" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=salman9653&repo=travel-guide&title_color=10b981&text_color=ffffff&icon_color=ef4444&bg_color=22272e&hide_border=true&locale=en" /></a>
+<a href="https://github.com/salman9653/travel-guide" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=salman9653&repo=travel-guide&title_color=10b981&text_color=ffffff&icon_color=ffffff&bg_color=22272e&hide_border=true&locale=en" /></a>
   
 <a href="https://github.com/salman9653/cryptoz" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=salman9653&repo=cryptoz&title_color=10b981&text_color=ffffff&icon_color=ffffff&bg_color=22272e&hide_border=true&locale=en" /></a></div>
 
 <br /><br /><br /><br /><br /><br />
 
 <div width="100%" align="center">
-<a href="https://github.com/salman9653/apex-one" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=salman9653&repo=apex-one&title_color=10b981&text_color=ffffff&icon_color=ffffff&bg_color=22272e&hide_border=true&locale=en" /></a><a href="https://github.com/salman9653/WebZ-Art" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=salman9653&repo=WebZ-Art&title_color=10b981&text_color=ffffff&icon_color=ef4444&bg_color=22272e&hide_border=true&locale=en" /></a></div>
+<a href="https://github.com/salman9653/apex-one" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=salman9653&repo=apex-one&title_color=10b981&text_color=ffffff&icon_color=ffffff&bg_color=22272e&hide_border=true&locale=en" /></a>
+  
+<a href="https://github.com/salman9653/WebZ-Art" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=salman9653&repo=WebZ-Art&title_color=10b981&text_color=ffffff&icon_color=ffffff&bg_color=22272e&hide_border=true&locale=en" /></a></div>
