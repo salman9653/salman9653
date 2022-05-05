@@ -2,12 +2,12 @@
 
 ## Frontend Web Developer
 
-- 🌍  I'm based in Gurugram
-- 🖥️  See [My Portfolio](http://salman9653.github.io/WebZ-Art/) Here
-- ✉️  You can contact me at [salman9915189734@gmail.com](mailto:salman9915189734@gmail.com)
-- ❤️ Interested in - JavaScript
-- 🧠  I'm learning Next.js
-- 🧑‍💻 Currently working on - MERN stack projects
+🌍  I'm based in Gurugram
+🖥️  See [My Portfolio](http://salman9653.github.io/WebZ-Art/) Here
+✉️  You can contact me at [salman9915189734@gmail.com](mailto:salman9915189734@gmail.com)
+❤️ Interested in - JavaScript
+🧠  I'm learning Next.js
+🧑‍💻 Currently working on - MERN stack projects
 
 ### Skills
 
