@@ -62,6 +62,12 @@
     </a>
 </p>
 
+### My CodeWars Stats
+<a href="https://www.codewars.com/users/salman9653/">
+   <img src="https://www.codewars.com/users/salman9653/badges/large" />
+</a>
+
+
 ### My GitHub Stats
 
 <a href="http://www.github.com/salman9653">
