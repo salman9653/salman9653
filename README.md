@@ -62,7 +62,7 @@
     </a>
 </p>
 
-### My CodeWars Stats
+### My CodeWars Profile
 <a href="https://www.codewars.com/users/salman9653/">
    <img src="https://www.codewars.com/users/salman9653/badges/large" />
 </a>
