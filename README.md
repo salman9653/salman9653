@@ -71,7 +71,7 @@
 ### My GitHub Stats
 
 <a href="http://www.github.com/salman9653">
-    <img src="https://github-readme-stats.vercel.app/api?username=salman9653&show_icons=true&hide=issues,&title_color=10b981&text_color=ffffff&icon_color=ffffff&bg_color=22272e&hide_border=true&show_icons=true" alt="salman9653's GitHub stats" />
+    <img src="[https://github-readme-stats.vercel.app/api?username=salman9653&show_icons=true&theme=transparent]" alt="salman9653's GitHub stats" />
 </a>
 
 <a href="http://www.github.com/salman9653">
