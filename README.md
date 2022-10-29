@@ -75,7 +75,7 @@
 </a>
 
 <a href="http://www.github.com/salman9653">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=salman9653&langs_count=10&hide_border=true&locale=en&custom_title=Top%20%Languages&theme=transparent&title_color=10b981" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=salman9653&stroke=ffffff&background=22272e&ring=10b981&fire=10b981&currStreakNum=ffffff&currStreakLabel=10b981&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
 </a>
 
 <a href="http://www.github.com/salman9653">
