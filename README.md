@@ -71,11 +71,11 @@
 ### My GitHub Stats
 
 <a href="http://www.github.com/salman9653">
-    <img src="https://github-readme-stats.vercel.app/api?username=salman9653&show_icons=true&theme=transparent&title_color=10b981&hide_border=true" alt="salman9653's GitHub stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=salman9653&show_icons=true&hide=issues,&title_color=10b981&text_color=ffffff&icon_color=ffffff&bg_color=22272e&hide_border=true&show_icons=true" alt="salman9653's GitHub stats" />
 </a>
 
 <a href="http://www.github.com/salman9653">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=salman9653&theme=transparent&ring=10b981&fire=10b981&hide_border=true" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=salman9653&stroke=ffffff&background=22272e&ring=10b981&fire=10b981&currStreakNum=ffffff&currStreakLabel=10b981&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
 </a>
 
 <a href="http://www.github.com/salman9653">
