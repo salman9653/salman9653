@@ -2,6 +2,8 @@
 
 ## Frontend Web Developer
 
+![Profile views](https://gpvc.arturio.dev/salman653)  <img src="https://img.shields.io/github/followers/salman9653?label=Follow" style=" float: left, margin-right:10px" />
+
 🌍  I'm based in Gurugram <br/>
 🖥️  See [My Portfolio](https://slmn-portfolio.netlify.app/) Here <br/>
 ✉️  You can contact me at [salman9915189734@gmail.com](mailto:salman9915189734@gmail.com)<br/>
@@ -9,58 +11,40 @@
 🧠  I'm learning Next.js<br/>
 🧑‍💻 Currently working on - React Native projects<br/>
 
-### Skills
 
-<p align="left">
-    <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" />
-    </a>
-    <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" />
-    </a>    
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" />
-    </a>
-     <a href="https://jquery.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jquery-colored.svg" width="36" height="36" alt="JQuery" />
-    </a>
-     <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" />
-    </a>
-     <a href="https://nextjs.org/docs" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJs" />
-    </a>
-    <a href="https://reactnative.dev/docs/environment-setup" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="ReactNative" />
-    </a>
-    <a href="https://sass-lang.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" />
-    </a>
-    <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" />
-    </a>
-    <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" />
-    </a>
-     <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="Typescript" />
-    </a>
-    <a href="https://redux.js.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" />
-    </a>
-    <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" />
-    </a>
-    <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" />
-    </a>
-    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" />
-    </a>
-     <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" />
-    </a>
-</p>
+### Tech & Tools Preference : 
+
+<img alt="Badge" style="float: left; margin-right: 5px; margin-top: 5px; height:40px"  src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
+
+<img alt="Badge" style="float: left; margin-right: 5px; margin-top: 5px; height:40px"  src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
+
+<img alt="Badge" style="float: left; margin-right: 5px; margin-top: 5px; height:40px"  src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"/>
+
+<img style="float: left; margin-right: 5px; margin-top: 5px; height:40px" src="https://img.shields.io/badge/Sass-cc6699?style=for-the-badge&logo=sass&logoColor=white">
+
+<img style="float: left; margin-right: 5px; margin-top: 5px; height:40px" src="https://img.shields.io/badge/tailwind css-13bbc6?style=for-the-badge&logo=tailwindcss&logoColor=white">
+
+<img alt="Badge" style="float: left; margin-right: 5px; margin-top: 5px; height:40px"  src="https://img.shields.io/badge/javascript%20-%23eab430.svg?&style=for-the-badge&logo=javascript&logoColor=white"/>
+
+<img alt="Badge" style="float: left; margin-right: 5px; margin-top: 5px; height:40px" src="https://img.shields.io/badge/react.js%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=white"/>
+
+<img alt="Badge" style="float: left; margin-right: 5px; margin-top: 5px; height:40px" src="https://img.shields.io/badge/next.js%20-%2320232a.svg?&style=for-the-badge&logo=next.js&logoColor=white"/> 
+
+<img alt="Badge" style="float: left; margin-right: 5px; margin-top: 5px; height:40px"  src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
+
+<img alt="Badge" style="float: left; margin-right: 5px; margin-top: 5px; height:40px" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
+
+<img alt="Badge" style="float: left; margin-right: 5px; margin-top: 5px; height:40px"  src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
+
+<img alt="Badge" style="float: left; margin-right: 5px; margin-top: 5px; height:40px" src="http://img.shields.io/badge/-Github-000000?style=for-the-badge&logo=github&logoColor=white">
+
+<img alt="Badge" style="float: left; margin-right: 5px; margin-top: 5px; height:40px" src="http://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
+
+<img style="float: left; margin-right: 5px; margin-top: 5px; height:40px" src="https://img.shields.io/badge/-Firebase-FFA611?style=for-the-badge&logo=firebase&logoColor=white">
+
+<img alt="Badge" style="float: left; margin-right: 5px; margin-top: 5px; height:40px" src="http://img.shields.io/badge/-Vercel-black?style=for-the-badge&logo=vercel&logoColor=white">
+
+<img alt="Badge" style="float: left; margin-right: 5px; margin-top: 5px; height:40px" src="http://img.shields.io/badge/-Netlify-41a5bd?style=for-the-badge&logo=netlify&logoColor=white">
 
 ### My CodeWars Profile
 <a href="https://www.codewars.com/users/salman9653/">
