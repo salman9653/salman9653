@@ -29,13 +29,13 @@
 ### My GitHub Stats
    
 <a href="http://www.github.com/salman9653">
-<img src="https://github-readme-stats.vercel.app/api?username=salman9653&show_icons=true&hide=issues,&title_color=10b981&text_color=ffffff&icon_color=ffffff&bg_color=22272e&hide_border=true&show_icons=true" alt="salman9653's GitHub stats" /></a>
-   
- <a href="https://github.com/salman9653" align="left">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=salman9653&langs_count=10&title_color=10b981&text_color=ffffff&icon_color=0891b2&bg_color=22272e&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<img src="https://github-readme-stats.vercel.app/api?username=salman9653&show_icons=true&hide=issues,&title_color=10b981&text_color=ffffff&icon_color=ffffff&bg_color=22272e&hide_border=true&show_icons=true" alt="salman9653's GitHub stats" /></a><br/>
    
 <a href="http://www.github.com/salman9653">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=salman9653&stroke=ffffff&background=22272e&ring=10b981&fire=10b981&currStreakNum=ffffff&currStreakLabel=10b981&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=salman9653&stroke=ffffff&background=22272e&ring=10b981&fire=10b981&currStreakNum=ffffff&currStreakLabel=10b981&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a><br/>
+   
+ <a href="https://github.com/salman9653" align="left">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=salman9653&langs_count=10&title_color=10b981&text_color=ffffff&icon_color=0891b2&bg_color=22272e&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a><br/>
       
 <a href="http://www.github.com/salman9653">
 <img src="https://activity-graph.herokuapp.com/graph?username=salman9653&bg_color=22272e&color=ffffff&line=10b981&point=ffffff&area_color=22272e&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
