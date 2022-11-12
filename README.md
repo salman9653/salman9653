@@ -14,37 +14,7 @@
 
 ### Tech & Tools Preference : 
 
-<img alt="Badge" style="float: left; margin-right: 5px; margin-top: 5px; height:40px"  src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
-
-<img alt="Badge" style="float: left; margin-right: 5px; margin-top: 5px; height:40px"  src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
-
-<img alt="Badge" style="float: left; margin-right: 5px; margin-top: 5px; height:40px"  src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"/>
-
-<img style="float: left; margin-right: 5px; margin-top: 5px; height:40px" src="https://img.shields.io/badge/Sass-cc6699?style=for-the-badge&logo=sass&logoColor=white">
-
-<img style="float: left; margin-right: 5px; margin-top: 5px; height:40px" src="https://img.shields.io/badge/tailwind css-13bbc6?style=for-the-badge&logo=tailwindcss&logoColor=white">
-
-<img alt="Badge" style="float: left; margin-right: 5px; margin-top: 5px; height:40px"  src="https://img.shields.io/badge/javascript%20-%23eab430.svg?&style=for-the-badge&logo=javascript&logoColor=white"/>
-
-<img alt="Badge" style="float: left; margin-right: 5px; margin-top: 5px; height:40px" src="https://img.shields.io/badge/react.js%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=white"/>
-
-<img alt="Badge" style="float: left; margin-right: 5px; margin-top: 5px; height:40px" src="https://img.shields.io/badge/next.js%20-%2320232a.svg?&style=for-the-badge&logo=next.js&logoColor=white"/> 
-
-<img alt="Badge" style="float: left; margin-right: 5px; margin-top: 5px; height:40px"  src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
-
-<img alt="Badge" style="float: left; margin-right: 5px; margin-top: 5px; height:40px" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
-
-<img alt="Badge" style="float: left; margin-right: 5px; margin-top: 5px; height:40px"  src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
-
-<img alt="Badge" style="float: left; margin-right: 5px; margin-top: 5px; height:40px" src="http://img.shields.io/badge/-Github-000000?style=for-the-badge&logo=github&logoColor=white">
-
-<img alt="Badge" style="float: left; margin-right: 5px; margin-top: 5px; height:40px" src="http://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
-
-<img style="float: left; margin-right: 5px; margin-top: 5px; height:40px" src="https://img.shields.io/badge/-Firebase-FFA611?style=for-the-badge&logo=firebase&logoColor=white">
-
-<img alt="Badge" style="float: left; margin-right: 5px; margin-top: 5px; height:40px" src="http://img.shields.io/badge/-Vercel-black?style=for-the-badge&logo=vercel&logoColor=white">
-
-<img alt="Badge" style="float: left; margin-right: 5px; margin-top: 5px; height:40px" src="http://img.shields.io/badge/-Netlify-41a5bd?style=for-the-badge&logo=netlify&logoColor=white">
+<img alt="Badge" style="float: left; margin-right: 5px; margin-top: 5px; height:40px"  src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"><img alt="Badge" style="float: left; margin-right: 5px; margin-top: 5px; height:40px"  src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"><img alt="Badge" style="float: left; margin-right: 5px; margin-top: 5px; height:40px"  src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"><img style="float: left; margin-right: 5px; margin-top: 5px; height:40px" src="https://img.shields.io/badge/Sass-cc6699?style=for-the-badge&logo=sass&logoColor=white"><img style="float: left; margin-right: 5px; margin-top: 5px; height:40px" src="https://img.shields.io/badge/tailwind css-13bbc6?style=for-the-badge&logo=tailwindcss&logoColor=white"><img alt="Badge" style="float: left; margin-right: 5px; margin-top: 5px; height:40px"  src="https://img.shields.io/badge/javascript%20-%23eab430.svg?&style=for-the-badge&logo=javascript&logoColor=white"><img alt="Badge" style="float: left; margin-right: 5px; margin-top: 5px; height:40px" src="https://img.shields.io/badge/react.js%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=white"><img alt="Badge" style="float: left; margin-right: 5px; margin-top: 5px; height:40px" src="https://img.shields.io/badge/next.js%20-%2320232a.svg?&style=for-the-badge&logo=next.js&logoColor=white"><img alt="Badge" style="float: left; margin-right: 5px; margin-top: 5px; height:40px"  src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"><img alt="Badge" style="float: left; margin-right: 5px; margin-top: 5px; height:40px" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"><img alt="Badge" style="float: left; margin-right: 5px; margin-top: 5px; height:40px"  src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"><img alt="Badge" style="float: left; margin-right: 5px; margin-top: 5px; height:40px" src="http://img.shields.io/badge/-Github-000000?style=for-the-badge&logo=github&logoColor=white"><img alt="Badge" style="float: left; margin-right: 5px; margin-top: 5px; height:40px" src="http://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"><img style="float: left; margin-right: 5px; margin-top: 5px; height:40px" src="https://img.shields.io/badge/-Firebase-FFA611?style=for-the-badge&logo=firebase&logoColor=white"><img alt="Badge" style="float: left; margin-right: 5px; margin-top: 5px; height:40px" src="http://img.shields.io/badge/-Vercel-black?style=for-the-badge&logo=vercel&logoColor=white"><img alt="Badge" style="float: left; margin-right: 5px; margin-top: 5px; height:40px" src="http://img.shields.io/badge/-Netlify-41a5bd?style=for-the-badge&logo=netlify&logoColor=white">
 
 ### My CodeWars Profile
 <a href="https://www.codewars.com/users/salman9653/">
