@@ -4,7 +4,6 @@
 
 ## Frontend Web Developer
 
-![Profile views](https://gpvc.arturio.dev/salman653)  <img src="https://img.shields.io/github/followers/salman9653?label=Follow" style=" float: left, margin-right:10px" />
 #### Thanks for visiting :heart:
 ![VisitorCount](https://profile-counter.glitch.me/salman9653/count.svg)
 
