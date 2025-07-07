@@ -10,7 +10,7 @@
 🌍  I'm based in Gurugram <br/>
 🖥️  See [My Portfolio](https://slmn-portfolio.netlify.app/) Here <br/>
 ✉️  You can contact me at [salman9915189734@gmail.com](mailto:salman9915189734@gmail.com)<br/>
-❤️ Interested in - JavaScript & React js<br/>
+❤️ Interested in - JavaScript, React js and Next.js<br/>
 🧠  I'm learning Node.js<br/>
 🧑‍💻 Currently working at - Naskay Technologies<br/>
 
